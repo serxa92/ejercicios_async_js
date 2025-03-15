@@ -1,0 +1,27 @@
+button{
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 14px;
+    margin: 100px;
+    border: 1px solid #000000;
+    width: 300px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+body{
+    display:block;
+    margin: 0;
+    padding: 0;
+    background-color: #000000ad;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
