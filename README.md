@@ -4,18 +4,10 @@
 
 Este repositorio contiene una serie de ejercicios para practicar JavaScript asíncrono utilizando async/await y fetch API.
 
-📂 Estructura del Proyecto
+![Vista previa](assets/31shots_so.png)
+![Vista previa](assets/512shots_so.png)
 
-📦 EJERCICIOS_ASYNC_JS
- ├── 📁 ejercicio1
- │   ├── 📜 ejercicio1.js
- │   ├── 📜 index.html
- │   ├── 📜 style.css
- ├── 📁 ejercicio2
- │   ├── 📜 ejercicio2.js
- │   ├── 📜 index.html
- │   ├── 📜 style.css
- ├── 📜 README.md
+
 
 🚀 Instalación y Uso
 
