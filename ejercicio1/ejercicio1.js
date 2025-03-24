@@ -1,4 +1,3 @@
-
 /* Hago una funcion asincrona, le digo prueba a acceder a la url de la api, espero a que me devuelva la consulta y la guardo en la constante response, luego la convierto en json por que viene cruda y la guardo en la constante data
  */
 const charactersGOT = async () => {
@@ -25,8 +24,6 @@ const charactersGOT = async () => {
       characterImage.setAttribute("src", `${characterList.value}`);
       characterImage.setAttribute("alt", `Imagen del personaje`);
     };
-    
-
   } catch (error) {
     console.error("Error al cargar los personajes:", error);
   }
@@ -34,4 +31,3 @@ const charactersGOT = async () => {
 
 // Llamamos a la función para cargar los personajes
 charactersGOT();
-
