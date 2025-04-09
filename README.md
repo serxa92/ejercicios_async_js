@@ -13,7 +13,8 @@ Este repositorio contiene una serie de ejercicios para practicar JavaScript así
 
 Clona el repositorio:
 
-git clone https://github.com/tu-usuario/ejercicios-async-js.git
+git clone https://github.com/serxa92/ejercicios_async_js.git
+
 
 Abre cada ejercicio en un navegador o en un entorno como VS Code.
 
